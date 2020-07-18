@@ -35,3 +35,7 @@ For more information: https://stackoverflow.com/questions/50828904/using-environ
 ### Add global scss files: prependData
 
 For more information: https://vueschool.io/articles/vuejs-tutorials/globally-load-sass-into-your-vue-js-applications/
+
+### Automated Deploy Scripts npm install gh-pages --save-dev
+
+For more information: https://stackoverflow.com/questions/42469817/host-github-pages-from-dist-folder-in-master-branch

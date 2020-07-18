@@ -6,6 +6,6 @@
 
 <style scoped lang="scss">
 h1 {
-  color: $h3-color;
+  color: #daa;
 }
 </style>
