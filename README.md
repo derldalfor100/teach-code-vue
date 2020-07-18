@@ -31,3 +31,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Add Enviroment Variables
 
 For more information: https://stackoverflow.com/questions/50828904/using-environment-variables-with-vue-js
+
+### Add global scss files: prependData
+
+For more information: https://vueschool.io/articles/vuejs-tutorials/globally-load-sass-into-your-vue-js-applications/

@@ -46,6 +46,7 @@ export default class HelloWorld extends Vue {
 <style scoped lang="scss">
 h3 {
   margin: 40px 0 0;
+  color: $h3-color;
 }
 ul {
   list-style-type: none;
@@ -56,6 +57,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: $kind-of-green;
 }
 </style>
