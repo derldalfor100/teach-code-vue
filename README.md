@@ -39,3 +39,7 @@ For more information: https://vueschool.io/articles/vuejs-tutorials/globally-loa
 ### Automated Deploy Scripts npm install gh-pages --save-dev
 
 For more information: https://stackoverflow.com/questions/42469817/host-github-pages-from-dist-folder-in-master-branch
+
+### Vue Router
+
+For more information: https://router.vuejs.org/api/#routes
