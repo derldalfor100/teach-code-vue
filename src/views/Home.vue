@@ -6,22 +6,21 @@
   </div>
 </template>
 
-<script>
-// @ is an alias to /src
+<script lang="ts">
+import Vue from 'vue';
 import HelloWorld from "@/components/HelloWorld.vue";
 
-export default {
+export default Vue.extend({
   name: "Home",
   components: {
-    HelloWorld
+    HelloWorld,
   },
   data() {
-
-    console.log('env:', process.env);
+    console.log("env:", process.env);
 
     return {
-      url: process.env.VUE_APP_ROOT_URL
-    }
-  }
-};
+      url: process.env.VUE_APP_ROOT_URL,
+    };
+  },
+});
 </script>

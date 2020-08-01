@@ -43,3 +43,7 @@ For more information: https://stackoverflow.com/questions/42469817/host-github-p
 ### Vue Router
 
 For more information: https://router.vuejs.org/api/#routes
+
+### BootstrapVue
+
+For more information: https://bootstrap-vue.org/docs
