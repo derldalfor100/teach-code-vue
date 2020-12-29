@@ -7,7 +7,7 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue';
+import Vue from "vue";
 import HelloWorld from "@/components/HelloWorld.vue";
 
 export default Vue.extend({
@@ -20,6 +20,9 @@ export default Vue.extend({
 
     return {
       url: process.env.VUE_APP_ROOT_URL,
+      exp: {
+        msg: "Hello Component"
+      }
     };
   },
 });
